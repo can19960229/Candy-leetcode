@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1cImyY2H1fQf4gubHI4koRhZIjk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test_thread_udp" />
+      <recent name="list_demo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\libs" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java\test" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\List_Arraylist_demo\src\doc" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_vivo\src\doc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="some_problem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\test" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\List_Arraylist_demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppTest">
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.MyLinkedList" />
+      <module name="test_gray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cap_1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_12" />
+      <module name="solution_03_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_169" />
+      <module name="solution_03_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.quickSort" />
+      <module name="test_gray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.solve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="solve" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.104" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_leetcode_demo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57743" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyLinkedList" />
+      <item itemvalue="Application.leetcode_12" />
+      <item itemvalue="Application.quickSort" />
+      <item itemvalue="Application.leetcode_169" />
+      <item itemvalue="JUnit.AppTest.solve" />
+      <item itemvalue="Application.AppTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppTest" />
+        <item itemvalue="JUnit.AppTest.solve" />
+        <item itemvalue="Application.leetcode_169" />
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.leetcode_12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="" />
+      <created>1590224736376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590224736376</updated>
+      <workItem from="1590224745354" duration="2791000" />
+      <workItem from="1590474426165" duration="12906000" />
+      <workItem from="1591277698895" duration="75000" />
+      <workItem from="1591580991562" duration="17214000" />
+      <workItem from="1591668453649" duration="25674000" />
+      <workItem from="1591754506737" duration="47765000" />
+      <workItem from="1592023903240" duration="22948000" />
+      <workItem from="1592183569842" duration="115084000" />
+      <workItem from="1592828629280" duration="1308000" />
+      <workItem from="1592830407621" duration="1231000" />
+      <workItem from="1592832312597" duration="1369000" />
+      <workItem from="1592874686482" duration="1842000" />
+      <workItem from="1592876610516" duration="1789000" />
+      <workItem from="1592878434030" duration="1084000" />
+      <workItem from="1592880332478" duration="1577000" />
+      <workItem from="1592882756472" duration="2121000" />
+      <workItem from="1592894178463" duration="72000" />
+      <workItem from="1592894508313" duration="154000" />
+      <workItem from="1592895522331" duration="116000" />
+      <workItem from="1592895721969" duration="14000" />
+      <workItem from="1592895768750" duration="136000" />
+      <workItem from="1592896037791" duration="92000" />
+      <workItem from="1592896150371" duration="10080000" />
+      <workItem from="1593145477191" duration="603000" />
+      <workItem from="1593270119670" duration="155000" />
+      <workItem from="1593306208790" duration="4145000" />
+      <workItem from="1593417687546" duration="6455000" />
+      <workItem from="1593567286941" duration="20202000" />
+      <workItem from="1594190483475" duration="614000" />
+      <workItem from="1594194650309" duration="677000" />
+      <workItem from="1594444047836" duration="1128000" />
+      <workItem from="1594445769791" duration="1116000" />
+      <workItem from="1594623092434" duration="24914000" />
+      <workItem from="1595167947884" duration="5971000" />
+      <workItem from="1595248628575" duration="1821000" />
+      <workItem from="1595338655294" duration="608000" />
+      <workItem from="1595417826539" duration="8188000" />
+      <workItem from="1596011489506" duration="52414000" />
+      <workItem from="1597407106767" duration="2115000" />
+      <workItem from="1597559798324" duration="30074000" />
+      <workItem from="1597835416961" duration="9996000" />
+      <workItem from="1598665347877" duration="6390000" />
+      <workItem from="1598778587464" duration="4208000" />
+      <workItem from="1599122735812" duration="7024000" />
+      <workItem from="1599286443757" duration="13387000" />
+      <workItem from="1600253084781" duration="1494000" />
+      <workItem from="1600396523520" duration="22696000" />
+      <workItem from="1600692673019" duration="311000" />
+      <workItem from="1600693013126" duration="37000" />
+      <workItem from="1600756357651" duration="22768000" />
+      <workItem from="1600910029528" duration="2691000" />
+      <workItem from="1600950721923" duration="15901000" />
+      <workItem from="1602384821126" duration="2896000" />
+      <workItem from="1602416030228" duration="3272000" />
+      <workItem from="1604414296604" duration="1547000" />
+      <workItem from="1607074728979" duration="8194000" />
+      <workItem from="1607408637616" duration="2439000" />
+      <workItem from="1608034139155" duration="3194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2436" y="188" key="#Inspections" timestamp="1600782934579">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2436" y="188" key="#Inspections/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600782934579" />
+    <state x="3383" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1600783632014">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3383" y="255" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600783632014" />
+    <state x="1037" y="397" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600516783159">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1037" y="397" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1600516783159" />
+    <state x="2788" y="423" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600848145147">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2788" y="423" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600848145147" />
+    <state x="2975" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600760033490">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2975" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600760033490" />
+    <state x="2840" y="291" key="FileChooserDialogImpl" timestamp="1602419418900">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1600397323504" />
+    <state x="920" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416246543" />
+    <state x="2840" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419418900" />
+    <state width="1339" height="198" key="GridCell.Tab.0.bottom" timestamp="1608042931505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931505" />
+    <state width="1303" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
+    <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
+    <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
+    <state width="1339" height="198" key="GridCell.Tab.0.center" timestamp="1608042931504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931504" />
+    <state width="1303" height="350" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
+    <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
+    <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
+    <state width="1339" height="198" key="GridCell.Tab.0.left" timestamp="1608042931503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931503" />
+    <state width="1303" height="350" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
+    <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
+    <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
+    <state width="1339" height="198" key="GridCell.Tab.0.right" timestamp="1608042931504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931504" />
+    <state width="1303" height="350" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
+    <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
+    <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
+    <state width="1303" height="133" key="GridCell.Tab.1.bottom" timestamp="1600692598754">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="133" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
+    <state width="1303" height="133" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
+    <state width="1303" height="133" key="GridCell.Tab.1.center" timestamp="1600692598754">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="133" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
+    <state width="1303" height="133" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
+    <state width="1303" height="133" key="GridCell.Tab.1.left" timestamp="1600692598754">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="133" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
+    <state width="1303" height="133" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
+    <state width="1303" height="133" key="GridCell.Tab.1.right" timestamp="1600692598754">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="133" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
+    <state width="1303" height="133" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
+    <state x="2225" y="172" key="Maven.ArtifactSearchDialog" timestamp="1600783469204">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2225" y="172" key="Maven.ArtifactSearchDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600783469204" />
+    <state x="212" y="135" width="1487" height="872" key="SettingsEditor" timestamp="1602418721775">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="805" y="94" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1600482262108" />
+    <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
+    <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
+    <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1602416048510">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="515" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600396626313" />
+    <state x="515" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416048510" />
+    <state x="2435" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600693048382" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode_demo$SetTest.ic" NAME="SetTest Coverage Results" MODIFIED="1591930380855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>collection.*</FILTER>
+    </SUITE>
+  </component>
+</project>

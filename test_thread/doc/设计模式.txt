@@ -1,0 +1,73 @@
+设计模式：
+    23种
+    分类：
+        创建      创建对象
+        结构型     对象的关系
+        行为型     对象的作用
+
+工厂模式：
+    把创建对象的行为交给一个工厂的类，可  以在工厂类中对对象进行初始化等操作。
+    return new Car();
+
+
+单例设计模式：
+    分类：
+        饿汉式     加载就创建对象
+        懒汉式     用的时候才创建对象
+
+    类在内存中的对象只要一个
+    饿汉式(不会出现线程安全问题)
+        分析：
+            A：让外界不能去创建对象
+                把构造方法私有化
+            B：类本身要创建一个对象
+                在成员位置创建一个对象
+            C：对外提供一个方法去获取该类的对象
+                提供一个公共的访问方法
+
+            //静态只能访问静态
+            private static final Student s = new Student();
+            //为了保证外界可以访问该对象，必须加static
+            public static Student getStudent(){
+                return s;
+            }
+    懒汉式：
+        会出现线程安全问题，并提供解决方案为在方法上加关键字synchronize
+        延迟加载思想(懒加载思想) 服务器启动时加载资源少
+        分析：
+            private static final Student s = null;
+            public synchronized static Student getStudent(){
+                if(t == null){
+                    t = new Student();
+                }
+                return t;
+             }
+            Runtime  是饿汉式实现的一种方式
+            public class Runtime {
+                private Runtime() {}
+
+                private static Runtime currentRuntime = new Runtime();
+
+                public static Runtime getRuntime() {
+                    return currentRuntime;
+                }
+             }
+
+适配器设计模式：
+    场景：Inter里面有6个抽象方法
+    普通类：有一个方法method(Inter i)
+    测试类：创建普通类的对象调用方法
+
+装饰模式：
+    	接口
+    	对接口的具体实现
+    	抽象装饰类
+    	具体装饰类
+    	BufferedReader br = new BufferedReader(new
+        InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
+        System.out));
+        Scanner sc = new Scanner(System.in);
+        //一个类的构造传递的是另一个对象作为参数，一般都可以看作是一个装饰
+        PrintWriter pw = new PrintWriter("pw.txt");
+

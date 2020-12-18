@@ -1,0 +1,403 @@
+
+对象数组：
+    person[] p = new person[5];
+    缺点：不能变化
+为了满足需求，java提供了容器：集合。
+
+集合和数组的区别：
+    集合：
+        1. 长度可以发生改变
+        2. 只能存储对象类型，引用类型
+        3. 可以存储任意类型的对象
+    数组：
+        1.长度固定
+        2.可以存储基本类型，也可以存储对象类型
+        3.只能存储同一种类型的元素
+
+容器
+一、Collection集合的功能：
+  		1:添加功能
+  			boolean add(Object e):往集合中添加一个元素。
+  			boolean addAll(Collection c):往集合中添加一个集合的元素。
+  		2:删除功能
+  			void clear():移除集合中的所有元素。
+  			boolean remove(Object o):移除集合中指定的一个元素。删除一个就返回true
+  			boolean removeAll(Collection c):移除集合中指定的一个集合的元素。
+  		3:判断功能
+  			boolean contains(Object o):判断集合中是否包含指定的元素。
+  			boolean containsAll(Collection c):判断集合中是否包含指定的一个集合的元素。全部包含才包含，fanhitrue、
+  			boolean isEmpty():判断集合是否为空。
+  		4:遍历功能
+  			Iterator iterator() 迭代器。用于获取集合中的元素。
+  		5:长度功能
+  			int size():获取集合中元素的个数。
+  		6:交集功能
+  			boolean retainAll(Collection c):
+  			假设A，B两个集合做交集。A交集B。
+            返回值表示的意思是A集合是否发生过改变。
+            交集的结果保存在A集合中。
+            B集合不发生改变。
+
+  		7:集合转数组
+  			Object[] toArray():把集合转换为数组。
+
+重点：iterator 迭代器。用于获取集合中的元素
+        Object next()返回迭代的下一个元素。其实就是获取迭代器的元素。
+        			获取元素，并且移动到下一个元素的位置。
+        		NoSuchElementException:就是说没有元素了，你还要继续获取。
+        boolean hasNext():判断迭代器中是否有元素可以被迭代。
+
+     注意：
+     迭代器是依赖于集合而存在，并且，一般来说，集合中要有元素才有意义。
+        迭代器进行集合中元素的遍历：
+            1.通过集合对象获取迭代器对象
+            2.通过迭代器对象的hashNext()方法进行判断是否有元素
+            3.通过迭代器对象的next()方法获取元素，并移动位置
+                Collection c = new ArrayList();
+                Iterator it = c.iterator(); // 接口的子类对象。多态
+                //标准版
+                while (it.hasNext()) {
+                            // System.out.println(it.next());
+                            String s = (String) it.next();
+                            System.out.println(s);
+                        }
+
+                // 用for循环改进版
+                		for (Iterator it2 = c.iterator(); it2.hasNext();) {
+                			String s = (String) it2.next();
+                			System.out.println(s);
+                		}
+        迭代器的实现源码：
+            interface Iterator {
+            	boolean hasNext();
+
+            	E next();
+            }
+
+            interface Collection {
+            	Iterator<E> iterator();
+            }
+
+            interface List extends Collection {
+
+            }
+
+            class ArrayList implements List {
+            	public Iterator iterator() {
+            		return new Itr();
+            	}
+
+            	 private class Itr implements Iterator {
+            	 	boolean hasNext() {
+            	 		...
+            	 	}
+
+            		E next() {
+            			...
+            		}
+            	 }
+            }
+
+
+
+2. Set接口：集，无序，不可重复
+    SortedSet接口：
+        TreeSet:基于红黑树实现
+            二分查找——二叉查找树——红黑树
+            红黑树的规则：
+            1.结点是红色或黑色。
+            2.根结点是黑色。
+            3.每个叶子结点都是黑色的空结点（NIL结点）。
+            4 每个红色结点的两个子结点都是黑色。(从每个叶子到根的所有路径上不能有两个连续的红色结点)
+            5.从任一结点到其每个叶子的所有路径都包含相同数目的黑色结点。
+
+            红黑树从根到叶子的最长路径不会超过最短路径的2倍
+    HashSet：底层是哈希表实现
+        哈希表是一个元素是链表的数组
+        存储的时候是按照对象的哈希值作为数组的索引进行存储的
+    LinkedHashSet：双向链表，有序，唯一
+        底层数据结构是链表和哈希表组成
+        由链表保证元素有序
+        由哈希表保证元素唯一
+
+
+  （1）泛型接口：
+    Collection.sort() 对序列中的元素进行排序，
+    由于Set集合中的元素是无序的，如果要对一个student对象进行打印输出，编译器会报错ClassCastException cannot be cast to java.lang.Comparable
+
+        排序有两种方法，一、使用元素的自然顺序对元素进行排序，或者二、根据创建 set 时提供的 Comparator 进行排序，具体取决于使用的构造方法，无参构造方法，默认采用的是自然排序。
+
+        默认情况下，要想实现自然排序(无参构造方法)，要让集合中的元素所属的类就必须实现Comparable接口，再重写该接口中的方法的时候，去按照需求来实现代码比较即可。
+
+        1. Comparable接口   定义默认的排序规则——可比较的
+            实现了该接口表示：这个类的实例可以比较大小，可以进行自然排序
+            定义了默认的比较规则
+            其实现类需实现compareTo()方法
+            comparaTo()方法返回正数表示大，负数表示小，0表示相等
+
+        2. Comparator接口    定义临时比较规则
+            其实现类需要实现compare()方法
+            Comparator和Comparable都是Java集合框架的成员
+
+    （2）HashSet：
+        1. 储存字符串或者对象并遍历，遍历时需要进行排序，与父类Collection接口的排序原则一致
+        2. HashSet如何保证元素的唯一性?
+            去除重复元素需要重写hashCode()和equals()方法
+            HashSet如何保证元素的唯一性?
+
+            HashSet存储自定义对象来保证唯一性。
+            需求：如果两个对象的成员变量值都相同，则为同一个对象。也就是同一个元素。
+
+            String:
+            		name,age
+
+            按照我们的想法，Set集合应该给我们去掉了重复的元素。
+            但事实上，这个元素还存在，这是为什么呢?
+            		因为两个对象的成员变量值相同，这两个对象未必是同一个对象。
+            		只不过我们的需求认为他是同一个对象。
+            		而我们又知道要比较对象的成员变量值，就必须重写equals()。
+
+            我们重写了equals()后，并没有实现去掉重复元素。那么，为什么呢?
+            		我们做一个简单的检测，看equals()方法有没有被执行。
+
+            通过一个简单的测试，我们发现程序并没有去执行equals()，这又是为什么呢?
+            		看add方法的源码。
+            最终我们发现了罪魁祸首：
+            		if (e.hash == hash && ((k = e.key) == key || key.equals(k)))
+            		{
+            			就没有添加到集合中。
+            		}
+
+            		这个判断分为左边和右边两部分：
+            		左边：
+            			e.hash == hash
+            			左边比较的是哈希值，而对象的哈希值一般来说肯定不一样。
+            			所以，左边永远是false。
+            			所以，右边永远执行不了。
+
+            		右边：
+            			((k = e.key) == key || key.equals(k))
+            			分为左边和右边：
+            			左边：
+            				//k是s1的地址值
+            				//key是s2的地址值
+            				(k = e.key) == key
+
+            				由于不同对象的地址值肯定不一样，所以，左边一般肯定是false。
+            			右边：
+            				key.equals(k)
+
+            HashSet集合的底层数据结构是哈希表。
+            		哈哈希表的存储依赖两个方法：
+            			hashCode()和equals()。
+            		执行顺序：
+            			首先判断对象的哈希值是否相同，
+            				如果相同，就继续执行equals()方法。
+            					如果equals()方法返回true，说明元素重复了。就不添加。
+            					如果equals()方法返回false，说明元素没有重复的，就添加到集合中。
+            				如果不同，就直接添加到集合中。
+
+            以后你看到HashXxx结构的集合，要知道，这种结构底层是哈希表。(是一个元素是链表的数组)
+            它依赖hashCode()和equals()方法。
+            		自动生成即可。
+
+
+    （3）JDK5的新特性：静态导入、可变参数
+        导入：import 包名...类名
+        静态导入：import static 包名....类名.方法名; 静态方法。
+        可变参数：
+            格式：
+            		修饰符 返回值类型 方法名(数据类型... 变量) {
+            		}
+            		A:数据类型...其实是该类型的一个数组。而且这个数组是自动包装的。
+            		B:可变参数用法的时候，要注意类型问题。
+            		C:如果一个方法有可变参数，那么，可变参数一定在最后的位置。
+    （4）TreeSet：底层数据结构是二叉树
+            1. 遍历元素时对元素进行排序输出，因为是无序的，不排序的话会报错。（与父类Collection接口的排序原则一致）
+                 排序有两种方法，一、使用元素的自然顺序对元素进行排序，或者二、根据创建 set 时提供的 Comparator 进行排序
+            2. TreeSet如何保证元素的唯一性？
+                TreeSet如何保证元素的唯一性和排序的呢?
+                唯一：根据返回值是否是0来决定。如果返回值是0，说明元素重复，就不再添加元素。
+                排序：
+                		正：说明数据大，往后放。
+                		0：说明重复。不添加。
+                		负：说明数据小，往前放。
+                		A：自然排序---元素具备比较性
+                		    无参构造   让集合中被存储的元素所属的类实现Comparable接口
+                		B：比较器排序---集合具备比较性
+                             带参构造  让创建集合对象的时候，接收一个Comparator接口的子类对象
+                需求：
+                		A:去除重复。如果成员变量值都相同，则为同一个元素。
+                		B:我想按照姓名的长度进行排序。(主要条件)
+
+                自定义对象：
+                		Student:name,age
+
+                Exception in thread "main" java.lang.ClassCastException: cannot be cast to java.lang.Comparable
+
+                Comparable c = (Comparable)(new Student());
+
+                默认情况下，要想实现自然排序，元素所属的类就必须实现Comparable接口。
+
+    （5）LinkedHashSet：
+            底层由链表和哈希表组成
+            由链表保证有序
+            由哈希表保证唯一
+
+3. List接口:序列，排列有序，可重复（元素的存储顺序和取出顺序一致）
+    List的特有功能：
+            A:添加功能
+                void add(int index,Object element):在指定的位置添加元素。
+            B:获取功能
+                Object get(int index):根据给定的索引，获取元素。
+            C:列表迭代器
+                ListIterator listIterator()
+            D:删除功能
+                Object remove(int index):删除指定索引位置的元素，并返回该元素。
+            E:修改功能
+                Object set(int index,Object element):用指定的元素修改指定位置的元素，并把修改前的元素返回。
+
+        ① ArrayList：动态数组（不同步的，线程不安全）
+                优点：可变的数组
+                缺点：指定的索引位置插入对象、删除对象需要移动数组
+        ② Vector：动态数组 + 线程安全（同步的）
+
+        ③ LinkedList：双向链表的动态数组（不同步的，线程不安全）
+                优点：方便插入和删除对象，只需要改变指针指向即可
+                缺点：随机访问时效率低，需要对链表进行遍历。
+        ---->  demo：用LinkedList模拟数据结构的集合并使用
+
+   问：ListIterator和iterator的区别？
+            iterator是listIterator的父亲，listIterator继承了iterator接口，iterator接口中该有的方法在listIterator中都有
+            listIterator可以正向遍历也可以逆向遍历，但是listIterator必须先正向遍历后才能逆向遍历
+   代码：
+        Iterator it = list.iterator();
+        While (it.hashNext()){
+            String s = (String） it.next();
+            if("lisi".equals(s)){
+                list.add("zhaoliu");
+            }
+        }
+   并发修改异常的产生原因及解决方案
+   面试题，问：用迭代器遍历集合的时候，用集合修改集合有没有问题？如果有，怎么解决？
+        ConcurrentModificationException:并发修改异常
+        因为迭代器是依赖于集合存在的，我们在使用迭代器的过程中，用集合往集合中添加元素，而并没有重新获取迭代器，所以报错。
+        原因：在迭代器迭代的过程中，是不能通过集合去修改集合的。
+        解决方案：
+            A：用集合本身遍历集合，用集合去修改集合。
+                集合实现。添加成功，元素添加到末尾
+                    for(int x=0;x<list.size();x++){
+                        String s = (String）list.get(x);
+                        if("lisi".equals(s)){
+                            list.add("zhaoliu");
+                        }
+                    }
+            B：用迭代器迭代，用迭代器修改元素。
+                迭代器实现 listIterator中才有add方法 Iterator中没有。添加成功，遍历到哪里，添加到哪里
+                  listIterator lit = list.listIterator();
+                   While (it.hashNext()){
+                       String s = (String） it.next();
+                       if("lisi".equals(s)){
+                           list.add("zhaoliu");
+                        }
+                   }
+
+
+Queue接口
+    LinkedList：双向队列
+    PriorityQueue：堆结构实现，可实现优先队列
+
+
+
+二、Map：存储着键-值对的映射表，能够实现key快速查找value
+    SortedMap接口：
+        TreeMap:红黑树实现
+    HashTable：
+    LinkedHashMap：
+    HashMap：哈希表实现
+
+    Map:
+     1. Map中键值对以Entry类型的对象实例形式存在
+     2. key值不能重复，value可以
+     3. 每个键最多只能映射到一个值
+     4. Map接口提供了分别返回key值集合、value值集合以及Entry（键值对）集合的方法
+     5. Map支持泛型，Map<K,V>
+
+    Map集合的功能：
+     		A:添加功能
+     			V put(K key,V value):如果键不存在，就是添加功能。如果键存在，就是修改功能。返回的是被修改前的值。
+     		B:删除功能
+     			void clear():清空集合中的所有键值对元素。
+     			V remove(Object key):根据键删除键值对元素，并把值返回。
+    		C:判断功能
+    			boolean containsKey(Object key):判断集合中是否包含指定的键。
+    			boolean containsValue(Object value):判断集合中是否包含指定的值。
+    			boolean isEmpty():判断集合是否为空。
+    		D:获取功能
+    			Set<Map.Entry<K,V>> entrySet():???
+    			V get(Object key):根据键去集合中获取值。
+    			Set<K> keySet():返回的是集合中所有键的元素。
+    			Collection<V> values():返回的是集合中所有值的元素。
+    		E:长度功能
+    			int size():集合中的键值对元素的对数。
+
+    Map和Collection集合的区别?
+     		Map:
+     			a:存储的是键值对元素。
+     			b:键是唯一的。
+     			c:值是可重复的。
+     		Collection:
+     			a:存储的是单个的元素。
+     			b:Collection的儿子Set集合是唯一的。
+     			c:Collection的儿子List集合可以重复。
+
+    HashMap类：
+            HashMap是Map的实现类，基于哈希表实现的
+            HashMap中的Entry对象是无序排列的
+            Key值和value值都可以为null，但是一个HashMap只能有一个key值为null的映射（key值不可重复）
+
+三、泛型
+       集合中的元素可以是任意类型的对象(对象的引用)， 当把对象放入集合中，则会忽略他的类型，当做object处理
+    1. 泛型则是规定了集合只可以存放特定类型的对象
+    2. 泛型集合中，不能添加泛型规定的类型及其子类型以外的对象，否则会报错 ClassCastException
+    3. 泛型集合可以添加泛型的子类型的对象实例
+
+
+
+    泛型：是一种把明确数据类型的工作推迟到创建对象或者调用方法的时候才去明确的一种特殊的数据类型。
+    格式：
+    		<数据类型>
+    		注意：如果没有给出数据类型，那么，默认是Object类型。
+    泛型的好处：
+    		A:优化了程序设计，解决了黄色警告线问题。
+    		B:把运行时期的问题提前到了编译期间解决了。
+    		C:避免了强制类型转换。
+
+
+ 泛型集合：泛型类型 泛型子类型
+    1. 泛型集合中的限定类型不能使用基本的数据类型
+    2. 可以使用包装类限定存入的基本数据类型
+    int -> Integer
+
+
+
+问题：
+    1. Array 和 ArrayList 有何区别？
+        Array 可以存储基本数据类型和对象，ArrayList只能存储对象。
+        Array 是指定固定大小的，而 ArrayList 大小是自动扩展的。
+
+
+    2. Arraylist和Linkedlist的区别？内部是怎么实现的？优缺点？
+        Arraylist：底层是基于动态数组实现的，默认初始化长度为10，支持动态扩容，新增加的容量大小为原来容量大小的50%。
+                   随机访问数组元素的效率高，向数组尾部添加元素的效率高；但是，删除数组中的数据以及向数组中间添加数据效率低，因为需要移动数组。
+                优点：可变的数组
+                缺点：指定的索引位置插入对象、删除对象需要移动数组
+
+        Linkedlist：基于链表的动态数组，数据添加删除效率高，只需要改变指针指向即可，但是访问数据的平均效率低，需要对链表进行遍历。
+        双向链表的动态数组
+                 优点：方便插入和删除对象，只需要改变指针指向即可
+                 缺点：1. 随机访问时效率低，需要对链表进行遍历。
+        线程不安全的：
+            Arraylist：https://blog.csdn.net/u012859681/article/details/78206494
+            Linkedlist：
+
