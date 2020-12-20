@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="" />
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/text.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/text.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -47,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
@@ -57,9 +67,12 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="test_thread_udp" />
-      <recent name="list_demo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\test\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -75,15 +88,12 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="some_problem" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\test" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\List_Arraylist_demo" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test_thread_udp" />
+      <recent name="list_demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppTest">
+  <component name="RunManager" selected="Application.text">
     <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
       <module name="solution_03_01" />
@@ -110,13 +120,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_12" />
-      <module name="solution_03_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="leetcode_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode_169" />
       <module name="solution_03_01" />
@@ -130,6 +133,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.text" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,19 +234,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.leetcode_12" />
       <item itemvalue="Application.quickSort" />
       <item itemvalue="Application.leetcode_169" />
-      <item itemvalue="JUnit.AppTest.solve" />
       <item itemvalue="Application.AppTest" />
+      <item itemvalue="JUnit.AppTest.solve" />
+      <item itemvalue="Application.text" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.text" />
         <item itemvalue="Application.AppTest" />
         <item itemvalue="JUnit.AppTest.solve" />
         <item itemvalue="Application.leetcode_169" />
         <item itemvalue="Application.quickSort" />
-        <item itemvalue="Application.leetcode_12" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +330,7 @@
       <workItem from="1607074728979" duration="8194000" />
       <workItem from="1607408637616" duration="2439000" />
       <workItem from="1608034139155" duration="3194000" />
+      <workItem from="1608437978496" duration="1220000" />
     </task>
     <servers />
   </component>
@@ -341,40 +358,41 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2975" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600760033490" />
-    <state x="2840" y="291" key="FileChooserDialogImpl" timestamp="1602419418900">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="-1000" y="291" key="FileChooserDialogImpl" timestamp="1608437781151">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608437781151" />
     <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1600397323504" />
     <state x="920" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416246543" />
     <state x="2840" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419418900" />
-    <state width="1339" height="198" key="GridCell.Tab.0.bottom" timestamp="1608042931505">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1339" height="198" key="GridCell.Tab.0.bottom" timestamp="1608438035329">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
     <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931505" />
     <state width="1303" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1339" height="198" key="GridCell.Tab.0.center" timestamp="1608042931504">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1339" height="198" key="GridCell.Tab.0.center" timestamp="1608438035329">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
     <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931504" />
     <state width="1303" height="350" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1339" height="198" key="GridCell.Tab.0.left" timestamp="1608042931503">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1339" height="198" key="GridCell.Tab.0.left" timestamp="1608438035329">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
     <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931503" />
     <state width="1303" height="350" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1339" height="198" key="GridCell.Tab.0.right" timestamp="1608042931504">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1339" height="198" key="GridCell.Tab.0.right" timestamp="1608438035329">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608035311711" />
+    <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
     <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931504" />
     <state width="1303" height="350" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
@@ -415,6 +433,10 @@
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600396626313" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416048510" />
     <state x="2435" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600693048382" />
+    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608439316351">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439316351" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_demo$SetTest.ic" NAME="SetTest Coverage Results" MODIFIED="1591930380855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

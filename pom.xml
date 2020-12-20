@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>solution_03_01</module>
-        <module>solution_vivo</module>
+      
         <module>List_Arraylist_demo</module>
         <module>Reflect_demo</module>
         <module>io_demo</module>
