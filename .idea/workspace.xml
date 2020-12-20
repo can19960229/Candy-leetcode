@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="计算机挑战赛答案测试">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/text.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/target/test-classes/org/example/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +56,9 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1cImyY2H1fQf4gubHI4koRhZIjk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -330,12 +340,27 @@
       <workItem from="1607074728979" duration="8194000" />
       <workItem from="1607408637616" duration="2439000" />
       <workItem from="1608034139155" duration="3194000" />
-      <workItem from="1608437978496" duration="1220000" />
+      <workItem from="1608437978496" duration="1522000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="计算机挑战赛答案测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="计算机挑战赛答案测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2436" y="188" key="#Inspections" timestamp="1600782934579">
@@ -358,6 +383,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2975" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600760033490" />
+    <state x="-1013" y="187" key="CommitChangelistDialog2" timestamp="1608439450426">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439450426" />
+    <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439436443">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-997" y="221" width="896" height="750" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439436443" />
     <state x="-1000" y="291" key="FileChooserDialogImpl" timestamp="1608437781151">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -421,6 +454,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2225" y="172" key="Maven.ArtifactSearchDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600783469204" />
+    <state x="-840" y="310" key="MultipleFileMergeDialog" timestamp="1608439505556">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-840" y="310" key="MultipleFileMergeDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439505556" />
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor" timestamp="1602418721775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -433,10 +470,10 @@
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600396626313" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416048510" />
     <state x="2435" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600693048382" />
-    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608439316351">
+    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608439501249">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439316351" />
+    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439501249" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_demo$SetTest.ic" NAME="SetTest Coverage Results" MODIFIED="1591930380855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
