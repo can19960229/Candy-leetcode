@@ -1,66 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="计算机挑战赛答案测试">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_06.java" afterDir="false" />
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_05_RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_06_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_07_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_08_ZigZagPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_09_FindNumInSortedMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_10_PrintCommonPart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/src/main/java/sort/bubble_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_gray/src/main/java/sort/bubble_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/META-INF/test_gray.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/ArrayStack$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyLinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/test_array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/BigNumberSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/FindLostNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetBestGoldMining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetMaxSortedDistance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetMaxSortedDistance$Bucket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetMaxSortedDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GreatestCommonDivisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/LRUCache$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/LRUCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/MyBitmap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/RemoveKDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/RemoveKDigits2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/StackToQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/findNearestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/isCycle$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/isCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/isPowerOf2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/minStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/bubble_sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/bucketSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/countSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/quickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/MyBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/MyBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/PriorityQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/target/test-classes/org/example/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/GetThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Run3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Run3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/SetThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/StudentDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/TicketDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_thread/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/NowCoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_08_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_08_v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode_169.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,40 +86,66 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/solution_03_01/src/main" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\test\java" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\test" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test_thread_udp" />
+      <recent name="list_demo" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="org.example" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\main" />
       <recent name="D:\chencan\java\java_workplace\leetcode_demo\libs" />
       <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java\test" />
       <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
       <recent name="D:\chencan\java\java_workplace\leetcode_demo\List_Arraylist_demo\src\doc" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_vivo\src\doc" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="some_problem" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="test_thread_udp" />
-      <recent name="list_demo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\main\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\test\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test_03">
+  <component name="RunManager" selected="Application.Code_05_RotateMatrix">
+    <configuration name="Code_05_RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左程云算法课.class_03.Code_05_RotateMatrix" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左程云算法课.class_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code_09_FindNumInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左程云算法课.class_03.Code_09_FindNumInSortedMatrix" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左程云算法课.class_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MyLinkedList" />
       <module name="test_gray" />
@@ -171,28 +159,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.test_01" />
+    <configuration name="leetcode_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode_08" />
       <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.test_02" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -212,19 +181,6 @@
     </configuration>
     <configuration name="test_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.test_04" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.text" />
       <module name="solution_03_01" />
       <extension name="coverage">
         <pattern>
@@ -301,19 +257,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.text" />
-      <item itemvalue="Application.test_01" />
-      <item itemvalue="Application.test_02" />
       <item itemvalue="Application.test_04" />
       <item itemvalue="Application.test_03" />
+      <item itemvalue="Application.leetcode_08" />
+      <item itemvalue="Application.Code_05_RotateMatrix" />
+      <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code_05_RotateMatrix" />
+        <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
+        <item itemvalue="Application.leetcode_08" />
         <item itemvalue="Application.test_03" />
         <item itemvalue="Application.test_04" />
-        <item itemvalue="Application.test_01" />
-        <item itemvalue="Application.test_02" />
-        <item itemvalue="Application.text" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +355,8 @@
       <workItem from="1608034139155" duration="3194000" />
       <workItem from="1608437978496" duration="12584000" />
       <workItem from="1609397206776" duration="7008000" />
-      <workItem from="1609844983632" duration="600000" />
+      <workItem from="1609844983632" duration="826000" />
+      <workItem from="1609851317165" duration="2011000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -415,7 +372,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608439745121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="计算机挑战赛答案测试">
+      <created>1609845916871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609845916871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="计算机挑战赛答案测试">
+      <created>1609846017034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609846017034</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;solution_03_01/src/test/java/org/example/test_05.java">
+      <created>1609846086667</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609846086667</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,18 +424,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="计算机挑战赛答案测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算机挑战赛答案测试" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;solution_03_01/src/test/java/org/example/test_05.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;solution_03_01/src/test/java/org/example/test_05.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1003" y="251" key="#Deployment/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439701466" />
-    <state x="907" y="187" key="CommitChangelistDialog2" timestamp="1609846015659">
+    <state x="-1066" y="414" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609851489800">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1066" y="414" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851489800" />
+    <state x="907" y="170" key="CommitChangelistDialog2" timestamp="1609846085659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439965017" />
-    <state x="907" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846015659" />
+    <state x="907" y="170" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846085659" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -469,32 +452,32 @@
     <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609588487107" />
     <state x="920" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416246543" />
     <state x="2840" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419418900" />
-    <state width="1535" height="47" key="GridCell.Tab.0.bottom" timestamp="1609845987943">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1535" height="199" key="GridCell.Tab.0.bottom" timestamp="1609851690886">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="47" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218073" />
-    <state width="1535" height="47" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845987943" />
+    <state width="1535" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
+    <state width="1535" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846123861" />
     <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1535" height="47" key="GridCell.Tab.0.center" timestamp="1609845987943">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1535" height="199" key="GridCell.Tab.0.center" timestamp="1609851690886">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="47" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218072" />
-    <state width="1535" height="47" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845987943" />
+    <state width="1535" height="199" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
+    <state width="1535" height="199" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846123861" />
     <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1535" height="47" key="GridCell.Tab.0.left" timestamp="1609845987943">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1535" height="199" key="GridCell.Tab.0.left" timestamp="1609851690886">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="47" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218072" />
-    <state width="1535" height="47" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845987943" />
+    <state width="1535" height="199" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
+    <state width="1535" height="199" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846123861" />
     <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1535" height="47" key="GridCell.Tab.0.right" timestamp="1609845987943">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1535" height="199" key="GridCell.Tab.0.right" timestamp="1609851690886">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="47" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218072" />
-    <state width="1535" height="47" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845987943" />
+    <state width="1535" height="199" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
+    <state width="1535" height="199" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846123861" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
     <state x="1080" y="310" key="MultipleFileMergeDialog" timestamp="1609846049763">
@@ -511,10 +494,10 @@
     </state>
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
     <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1609846023873">
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1609846099829">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846023873" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846099829" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1602416048510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
