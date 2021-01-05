@@ -453,11 +453,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1003" y="251" key="#Deployment/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439701466" />
-    <state x="907" y="187" key="CommitChangelistDialog2" timestamp="1609845915583">
+    <state x="907" y="187" key="CommitChangelistDialog2" timestamp="1609846015659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439965017" />
-    <state x="907" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845915583" />
+    <state x="907" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846015659" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -497,10 +497,11 @@
     <state width="1535" height="47" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609845987943" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state x="-840" y="310" key="MultipleFileMergeDialog" timestamp="1608439505556">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="1080" y="310" key="MultipleFileMergeDialog" timestamp="1609846049763">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-840" y="310" key="MultipleFileMergeDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439505556" />
+    <state x="1080" y="310" key="MultipleFileMergeDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846049763" />
     <state x="-679" y="317" key="RollbackChangesDialog" timestamp="1608439656610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -510,6 +511,10 @@
     </state>
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
     <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1609846023873">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609846023873" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1602416048510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
