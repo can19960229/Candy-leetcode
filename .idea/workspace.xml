@@ -2,17 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="计算机挑战赛答案测试">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/Main_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/text.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/src/test/java/org/example/test_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/src/main/java/sort/bubble_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_gray/src/main/java/sort/bubble_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/META-INF/test_gray.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/ArrayStack$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/array/test_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/BigNumberSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/FindLostNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetBestGoldMining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetMaxSortedDistance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetMaxSortedDistance$Bucket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GetMaxSortedDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/GreatestCommonDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/LRUCache$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/MyBitmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/RemoveKDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/RemoveKDigits2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/StackToQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/findNearestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/isCycle$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/isCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/isPowerOf2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/some_problem/minStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/bubble_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/bucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/countSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/sort/quickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/MyBinaryTree$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/MyBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/PriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/classes/tree_tree/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/GetThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Run3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Run3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/SetThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/StudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/Ticket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/MyThread_test/TicketDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_thread/target/test-classes/org/example/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +93,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="can19960229 &lt;1361050253@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="LogFilters">
@@ -70,7 +124,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_leetcode" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -103,20 +157,7 @@
       <recent name="list_demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.text">
-    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test_03">
     <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MyLinkedList" />
       <module name="test_gray" />
@@ -130,19 +171,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_169" />
+    <configuration name="test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test_01" />
       <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.quickSort" />
-      <module name="test_gray" />
+    <configuration name="test_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test_02" />
+      <module name="solution_03_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test_03" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test_04" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,22 +232,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest.solve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
-      <option name="METHOD_NAME" value="solve" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -244,19 +301,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.quickSort" />
-      <item itemvalue="Application.leetcode_169" />
-      <item itemvalue="Application.AppTest" />
-      <item itemvalue="JUnit.AppTest.solve" />
       <item itemvalue="Application.text" />
+      <item itemvalue="Application.test_01" />
+      <item itemvalue="Application.test_02" />
+      <item itemvalue="Application.test_04" />
+      <item itemvalue="Application.test_03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test_03" />
+        <item itemvalue="Application.test_04" />
+        <item itemvalue="Application.test_01" />
+        <item itemvalue="Application.test_02" />
         <item itemvalue="Application.text" />
-        <item itemvalue="Application.AppTest" />
-        <item itemvalue="JUnit.AppTest.solve" />
-        <item itemvalue="Application.leetcode_169" />
-        <item itemvalue="Application.quickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -340,8 +397,25 @@
       <workItem from="1607074728979" duration="8194000" />
       <workItem from="1607408637616" duration="2439000" />
       <workItem from="1608034139155" duration="3194000" />
-      <workItem from="1608437978496" duration="1522000" />
+      <workItem from="1608437978496" duration="12584000" />
+      <workItem from="1609397206776" duration="7008000" />
+      <workItem from="1609844983632" duration="600000" />
     </task>
+    <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
+      <created>1608439535790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608439535790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="计算机挑战赛答案测试">
+      <created>1608439745121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608439745121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +436,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -373,97 +449,53 @@
     <option name="LAST_COMMIT_MESSAGE" value="计算机挑战赛答案测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2436" y="188" key="#Inspections" timestamp="1600782934579">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2436" y="188" key="#Inspections/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600782934579" />
-    <state x="3383" y="255" key="#com.intellij.ide.util.MemberChooser" timestamp="1600783632014">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="-1003" y="251" key="#Deployment/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439701466" />
+    <state x="-1013" y="187" key="CommitChangelistDialog2" timestamp="1608439965017">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="3383" y="255" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600783632014" />
-    <state x="1037" y="397" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600516783159">
+    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439965017" />
+    <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-997" y="221" width="896" height="750" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439843610" />
+    <state x="920" y="291" key="FileChooserDialogImpl" timestamp="1609588487107">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1037" y="397" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1600516783159" />
-    <state x="2788" y="423" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600848145147">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2788" y="423" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600848145147" />
-    <state x="2975" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600760033490">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2975" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600760033490" />
-    <state x="-1013" y="187" key="CommitChangelistDialog2" timestamp="1608439650038">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439650038" />
-    <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439648358">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="-997" y="221" width="896" height="750" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439648358" />
-    <state x="-1000" y="291" key="FileChooserDialogImpl" timestamp="1608437781151">
-      <screen x="-1920" y="0" width="1920" height="1080" />
-    </state>
     <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608437781151" />
-    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1600397323504" />
+    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609588487107" />
     <state x="920" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416246543" />
     <state x="2840" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419418900" />
-    <state width="1339" height="198" key="GridCell.Tab.0.bottom" timestamp="1608438035329">
+    <state width="1535" height="47" key="GridCell.Tab.0.bottom" timestamp="1608451218073">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
+    <state width="1535" height="47" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218073" />
     <state width="1339" height="198" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931505" />
-    <state width="1303" height="350" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1339" height="198" key="GridCell.Tab.0.center" timestamp="1608438035329">
+    <state width="1535" height="47" key="GridCell.Tab.0.center" timestamp="1608451218072">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
+    <state width="1535" height="47" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218072" />
     <state width="1339" height="198" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931504" />
-    <state width="1303" height="350" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1339" height="198" key="GridCell.Tab.0.left" timestamp="1608438035329">
+    <state width="1535" height="47" key="GridCell.Tab.0.left" timestamp="1608451218072">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
+    <state width="1535" height="47" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218072" />
     <state width="1339" height="198" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931503" />
-    <state width="1303" height="350" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1339" height="198" key="GridCell.Tab.0.right" timestamp="1608438035329">
+    <state width="1535" height="47" key="GridCell.Tab.0.right" timestamp="1608451218072">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608438035329" />
+    <state width="1535" height="47" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608451218072" />
     <state width="1339" height="198" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608042931504" />
-    <state width="1303" height="350" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600596130341" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
     <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1303" height="133" key="GridCell.Tab.1.bottom" timestamp="1600692598754">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1303" height="133" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
-    <state width="1303" height="133" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
-    <state width="1303" height="133" key="GridCell.Tab.1.center" timestamp="1600692598754">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1303" height="133" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
-    <state width="1303" height="133" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
-    <state width="1303" height="133" key="GridCell.Tab.1.left" timestamp="1600692598754">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1303" height="133" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
-    <state width="1303" height="133" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
-    <state width="1303" height="133" key="GridCell.Tab.1.right" timestamp="1600692598754">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1303" height="133" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600595707721" />
-    <state width="1303" height="133" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600692598754" />
-    <state x="2225" y="172" key="Maven.ArtifactSearchDialog" timestamp="1600783469204">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2225" y="172" key="Maven.ArtifactSearchDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600783469204" />
     <state x="-840" y="310" key="MultipleFileMergeDialog" timestamp="1608439505556">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -475,19 +507,16 @@
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor" timestamp="1602418721775">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="805" y="94" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1600482262108" />
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
     <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1602416048510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="515" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600396626313" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416048510" />
-    <state x="2435" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1600693048382" />
-    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608439674753">
+    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608439843601">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439674753" />
+    <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439843601" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode_demo$SetTest.ic" NAME="SetTest Coverage Results" MODIFIED="1591930380855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
