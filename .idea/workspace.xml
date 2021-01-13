@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_12_SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_13_CopyListWithRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +74,12 @@
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="test_thread_udp" />
-      <recent name="list_demo" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\main\java\左程云算法课\class_03" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\main\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\test\java" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
+      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -92,12 +95,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="some_problem" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\main\java" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\solution_03_01\src\test\java" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_Algorithms" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
-      <recent name="D:\chencan\java\java_workplace\leetcode_demo\net_demo\src\main\java" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test_thread_udp" />
+      <recent name="list_demo" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Code_05_RotateMatrix">
@@ -341,7 +341,10 @@
       <workItem from="1609936777953" duration="622000" />
       <workItem from="1609938774964" duration="599000" />
       <workItem from="1609984556443" duration="598000" />
-      <workItem from="1610017468284" duration="5465000" />
+      <workItem from="1610017468284" duration="7185000" />
+      <workItem from="1610113342180" duration="946000" />
+      <workItem from="1610174096751" duration="525000" />
+      <workItem from="1610543007127" duration="1549000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -392,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610027431176</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="将单向链表按某值划分成左边小、 中间相等、 右边大的形式">
+      <created>1610030354102</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610030354102</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +436,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;solution_03_01/src/test/java/org/example/test_05.java" />
     <MESSAGE value="1.0" />
     <MESSAGE value="回文链表问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="回文链表问题" />
+    <MESSAGE value="将单向链表按某值划分成左边小、 中间相等、 右边大的形式" />
+    <option name="LAST_COMMIT_MESSAGE" value="将单向链表按某值划分成左边小、 中间相等、 右边大的形式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
@@ -437,20 +448,20 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1066" y="414" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851489800" />
-    <state x="907" y="170" key="CommitChangelistDialog2" timestamp="1610027430170">
+    <state x="907" y="170" key="CommitChangelistDialog2" timestamp="1610030353267">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439965017" />
-    <state x="907" y="170" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610027430170" />
+    <state x="907" y="170" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610030353267" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439843610" />
-    <state x="920" y="291" key="FileChooserDialogImpl" timestamp="1609588487107">
+    <state x="920" y="291" key="FileChooserDialogImpl" timestamp="1610030783387">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608437781151" />
-    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1609588487107" />
+    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610030783387" />
     <state x="920" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416246543" />
     <state x="2840" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419418900" />
     <state width="1535" height="199" key="GridCell.Tab.0.bottom" timestamp="1609936718595">
@@ -495,10 +506,10 @@
     </state>
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
     <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1610027779245">
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1610030368479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610027779245" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610030368479" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1602416048510">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
