@@ -111,18 +111,18 @@ public class Code_01_PreInPosTraversal {
     }
 
     /**
-     * 后序遍历的非递归方式
+     * 后序遍历的非递归方式——辅助栈的方式
      * @param head
      */
     public static void posOrderUnRecur1(Node head) {
         System.out.print("pos-order: ");
         if (head != null) {
-            Stack<Node> s1 = new Stack<Node>();
-            Stack<Node> s2 = new Stack<Node>();
+            Stack<Node> s1 = new Stack<Node>();//实现先中、右、左的遍历方式
+            Stack<Node> s2 = new Stack<Node>();//额外栈
             s1.push(head);
             while (!s1.isEmpty()) {
                 head = s1.pop();
-                s2.push(head);
+                s2.push(head);  //先不打印，先放入辅助栈中，然后再打印辅助栈，则最后打印的次序是左、右、中的方式
                 if (head.left != null) {
                     s1.push(head.left);
                 }
@@ -137,6 +137,10 @@ public class Code_01_PreInPosTraversal {
         System.out.println();
     }
 
+    /**
+     * 后序遍历的非递归方式——一个栈
+     * @param h
+     */
     public static void posOrderUnRecur2(Node h) {
         System.out.print("pos-order: ");
         if (h != null) {
