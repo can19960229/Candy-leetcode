@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03/Code_14_FindFirstIntersectNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_03" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -345,7 +344,7 @@
       <workItem from="1610113342180" duration="946000" />
       <workItem from="1610174096751" duration="525000" />
       <workItem from="1610543007127" duration="2214000" />
-      <workItem from="1610592253747" duration="6908000" />
+      <workItem from="1610592253747" duration="7021000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -410,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610547460631</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="两个单链表相交的一系列问题">
+      <created>1611055708978</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611055708978</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +452,8 @@
     <MESSAGE value="回文链表问题" />
     <MESSAGE value="将单向链表按某值划分成左边小、 中间相等、 右边大的形式" />
     <MESSAGE value="复杂链表的复制" />
-    <option name="LAST_COMMIT_MESSAGE" value="复杂链表的复制" />
+    <MESSAGE value="两个单链表相交的一系列问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="两个单链表相交的一系列问题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
@@ -457,11 +464,11 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1066" y="414" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851489800" />
-    <state x="907" y="170" key="CommitChangelistDialog2" timestamp="1610547459793">
+    <state x="907" y="170" key="CommitChangelistDialog2" timestamp="1611055708166">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439965017" />
-    <state x="907" y="170" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610547459793" />
+    <state x="907" y="170" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611055708166" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -515,10 +522,10 @@
     </state>
     <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
     <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1610547467541">
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1611055716085">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610547467541" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611055716085" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1610592252766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
