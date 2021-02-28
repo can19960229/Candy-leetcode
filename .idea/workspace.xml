@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="二叉树的前中后遍历（递归和非递归方式）">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_04/Code_02_PrintBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_04/Code_03_SuccessorNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="二叉树">
+      <change afterPath="$PROJECT_DIR$/test_gray/src/main/java/some_problem/uglyCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_04/Code_01_PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/左程云算法课/class_04/Code_01_PreInPosTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_gray/src/main/java/org/example/App.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +101,13 @@
       <recent name="D:\chencan\java\java_workplace\leetcode_demo\test_gray\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Code_02_PrintBinaryTree">
-    <configuration name="Code_01_PreInPosTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左程云算法课.class_04.Code_01_PreInPosTraversal" />
-      <module name="solution_03_01" />
+  <component name="RunManager" selected="Application.f">
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ClassTest" />
+      <module name="test_gray" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左程云算法课.class_04.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,32 +128,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code_05_RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左程云算法课.class_03.Code_05_RotateMatrix" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左程云算法课.class_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code_09_FindNumInSortedMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左程云算法课.class_03.Code_09_FindNumInSortedMatrix" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左程云算法课.class_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MyLinkedList" />
       <module name="test_gray" />
@@ -169,9 +141,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode_08" />
-      <module name="solution_03_01" />
+    <configuration name="Threads4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Threads4" />
+      <module name="test_gray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.f" />
+      <module name="test_gray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uglyCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="some_problem.uglyCount" />
+      <module name="test_gray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="some_problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -241,19 +245,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.leetcode_08" />
-      <item itemvalue="Application.Code_05_RotateMatrix" />
-      <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
-      <item itemvalue="Application.Code_01_PreInPosTraversal" />
       <item itemvalue="Application.Code_02_PrintBinaryTree" />
+      <item itemvalue="Application.uglyCount" />
+      <item itemvalue="Application.Threads4" />
+      <item itemvalue="Application.ClassTest" />
+      <item itemvalue="Application.f" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.f" />
+        <item itemvalue="Application.ClassTest" />
+        <item itemvalue="Application.Threads4" />
+        <item itemvalue="Application.uglyCount" />
         <item itemvalue="Application.Code_02_PrintBinaryTree" />
-        <item itemvalue="Application.Code_01_PreInPosTraversal" />
-        <item itemvalue="Application.Code_05_RotateMatrix" />
-        <item itemvalue="Application.Code_09_FindNumInSortedMatrix" />
-        <item itemvalue="Application.leetcode_08" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +352,9 @@
       <workItem from="1610113342180" duration="946000" />
       <workItem from="1610174096751" duration="525000" />
       <workItem from="1610543007127" duration="2214000" />
-      <workItem from="1610592253747" duration="13663000" />
+      <workItem from="1610592253747" duration="14558000" />
+      <workItem from="1611218299445" duration="1227000" />
+      <workItem from="1614307853066" duration="7911000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -441,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611058460283</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="二叉树">
+      <created>1611065932108</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611065932108</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +493,8 @@
     <MESSAGE value="两个单链表相交的一系列问题" />
     <MESSAGE value="二分的最小扩展" />
     <MESSAGE value="二叉树的前中后遍历（递归和非递归方式）" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树的前中后遍历（递归和非递归方式）" />
+    <MESSAGE value="二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
@@ -491,50 +505,40 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1066" y="414" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851489800" />
-    <state x="907" y="170" key="CommitChangelistDialog2" timestamp="1611061233536">
+    <state x="477" y="104" key="CommitChangelistDialog2" timestamp="1611480550470">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439965017" />
-    <state x="907" y="170" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611061233536" />
+    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611480550470" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1608439843610" />
-    <state x="920" y="291" key="FileChooserDialogImpl" timestamp="1611063573086">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1000" y="291" key="FileChooserDialogImpl" timestamp="1614510819147">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1610934740953" />
-    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611063573086" />
-    <state x="920" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416246543" />
-    <state x="2840" y="291" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602419418900" />
-    <state width="1875" height="485" key="GridCell.Tab.0.bottom" timestamp="1611058944660">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614510819147" />
+    <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611479962643" />
+    <state width="1875" height="485" key="GridCell.Tab.0.bottom" timestamp="1614508449154">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
-    <state width="1875" height="485" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611058944660" />
-    <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
-    <state width="1339" height="382" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1875" height="485" key="GridCell.Tab.0.center" timestamp="1611058944660">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="485" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614508449154" />
+    <state width="1875" height="485" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611218201260" />
+    <state width="1875" height="485" key="GridCell.Tab.0.center" timestamp="1614508449154">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="199" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
-    <state width="1875" height="485" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611058944660" />
-    <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
-    <state width="1339" height="382" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1875" height="485" key="GridCell.Tab.0.left" timestamp="1611058944660">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="485" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614508449154" />
+    <state width="1875" height="485" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611218201260" />
+    <state width="1875" height="485" key="GridCell.Tab.0.left" timestamp="1614508449153">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="199" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
-    <state width="1875" height="485" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611058944660" />
-    <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
-    <state width="1339" height="382" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
-    <state width="1875" height="485" key="GridCell.Tab.0.right" timestamp="1611058944660">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="485" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614508449153" />
+    <state width="1875" height="485" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611218201260" />
+    <state width="1875" height="485" key="GridCell.Tab.0.right" timestamp="1614508449154">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1535" height="199" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1609851690886" />
-    <state width="1875" height="485" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611058944660" />
-    <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604417226239" />
-    <state width="1339" height="382" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1604414498038" />
+    <state width="1875" height="485" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614508449154" />
+    <state width="1875" height="485" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611218201260" />
     <state x="1080" y="310" key="MultipleFileMergeDialog" timestamp="1609846049763">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -548,17 +552,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="403" y="342" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611059577425" />
-    <state x="212" y="135" width="1487" height="872" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602418721775" />
-    <state x="2496" y="114" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1602415854735" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1611058474834">
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1611065944273">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611058474834" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611065944273" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1610592252766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1610592252766" />
-    <state x="515" y="322" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602416048510" />
     <state x="-757" y="512" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608439843601">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
