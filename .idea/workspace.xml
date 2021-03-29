@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/DP/bag_2_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/DP/bag_2_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/DP/bag_2_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/leetcode/leetcode_17_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution_03_01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/solution_03_01/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,20 @@
       <recent name="list_demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bag_2_17">
+  <component name="RunManager" selected="Application.HJ11">
+    <configuration name="HJ11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试汇总.华为.HJ11" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="笔试汇总.华为.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MyLinkedList" />
       <module name="test_gray" />
@@ -160,19 +172,6 @@
     </configuration>
     <configuration name="leetcode_17_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.leetcode_17_10" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode_503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode_503" />
       <module name="solution_03_01" />
       <extension name="coverage">
         <pattern>
@@ -249,19 +248,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.leetcode_503" />
       <item itemvalue="Application.leetcode_17_10" />
       <item itemvalue="Application.bag_2_16" />
       <item itemvalue="Application.bag_2_15" />
       <item itemvalue="Application.bag_2_17" />
+      <item itemvalue="Application.HJ11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HJ11" />
         <item itemvalue="Application.bag_2_17" />
         <item itemvalue="Application.bag_2_15" />
         <item itemvalue="Application.bag_2_16" />
         <item itemvalue="Application.leetcode_17_10" />
-        <item itemvalue="Application.leetcode_503" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +364,7 @@
       <workItem from="1615615714281" duration="3810000" />
       <workItem from="1615684910969" duration="21630000" />
       <workItem from="1615946443547" duration="3094000" />
-      <workItem from="1616327915800" duration="46667000" />
+      <workItem from="1616327915800" duration="49183000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -500,7 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616672582688</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="背包问题">
+      <created>1616938698717</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616938698717</updated>
+    </task>
+    <task id="LOCAL-00021" summary="数组">
+      <created>1616938710399</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1616938710399</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +557,9 @@
     <MESSAGE value="2020-2021年度第二届全国大学生算法设计与编程挑战赛（冬季赛）——正式赛（Java语言题目解析）" />
     <MESSAGE value="动态规划" />
     <MESSAGE value="单调栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="单调栈" />
+    <MESSAGE value="背包问题" />
+    <MESSAGE value="数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
@@ -564,11 +579,11 @@
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615700274974" />
     <state x="690" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616584363812" />
-    <state x="477" y="104" key="CommitChangelistDialog2" timestamp="1616938697212">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1013" y="187" key="CommitChangelistDialog2" timestamp="1617020912993">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616672581574" />
-    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616938697212" />
+    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617020912993" />
+    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616938709257" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -578,25 +593,25 @@
     </state>
     <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616656018715" />
     <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616548193533" />
-    <state width="1875" height="168" key="GridCell.Tab.0.bottom" timestamp="1616936536514">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="168" key="GridCell.Tab.0.bottom" timestamp="1617019943664">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="103" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616660735703" />
+    <state width="1875" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617019943664" />
     <state width="1875" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616936536514" />
-    <state width="1875" height="168" key="GridCell.Tab.0.center" timestamp="1616936536514">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="168" key="GridCell.Tab.0.center" timestamp="1617019943664">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="103" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616660735703" />
+    <state width="1875" height="168" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617019943664" />
     <state width="1875" height="168" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616936536514" />
-    <state width="1875" height="168" key="GridCell.Tab.0.left" timestamp="1616936536514">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="168" key="GridCell.Tab.0.left" timestamp="1617019943664">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="103" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616660735703" />
+    <state width="1875" height="168" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617019943664" />
     <state width="1875" height="168" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616936536514" />
-    <state width="1875" height="168" key="GridCell.Tab.0.right" timestamp="1616936536514">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1875" height="168" key="GridCell.Tab.0.right" timestamp="1617019943664">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="103" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1616660735703" />
+    <state width="1875" height="168" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617019943664" />
     <state width="1875" height="168" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616936536514" />
     <state width="1875" height="299" key="GridCell.Tab.1.bottom" timestamp="1616762802878">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -631,11 +646,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="403" y="342" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611059577425" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1616555682761">
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1616938714377">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1320" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1614741228529" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616555682761" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616938714377" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615728172573">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
