@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="更新">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_gray/src/main/java/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,7 +359,7 @@
       <workItem from="1615615714281" duration="3810000" />
       <workItem from="1615684910969" duration="21630000" />
       <workItem from="1615946443547" duration="3094000" />
-      <workItem from="1616327915800" duration="49595000" />
+      <workItem from="1616327915800" duration="49835000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -520,7 +515,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617020944926</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="更新">
+      <created>1617021313814</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617021313815</updated>
+    </task>
+    <task id="LOCAL-00024" summary="更新">
+      <created>1617021538882</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1617021538882</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,10 +597,10 @@
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615700274974" />
     <state x="690" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616584363812" />
-    <state x="-1013" y="187" key="CommitChangelistDialog2" timestamp="1617021312718">
+    <state x="-1013" y="187" key="CommitChangelistDialog2" timestamp="1617021537791">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617021312718" />
+    <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617021537791" />
     <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616938709257" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
@@ -655,10 +664,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="403" y="342" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611059577425" />
-    <state x="-1320" y="338" key="Vcs.Push.Dialog.v2" timestamp="1617021319118">
+    <state x="-1320" y="338" key="Vcs.Push.Dialog.v2" timestamp="1617021544415">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1320" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617021319118" />
+    <state x="-1320" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617021544415" />
     <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616938714377" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1615728172573">
       <screen x="0" y="0" width="1920" height="1080" />
