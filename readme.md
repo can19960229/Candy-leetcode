@@ -1,6 +1,5 @@
 **基础知识的实现**：
 
-@[TOC](目录)
 # [solution_03_01（重点）](https://github.com/can19960229/test_Algorithms_gray/tree/master/solution_03_01/src/main/java)
 
 ## 1. labuladong_learn  
