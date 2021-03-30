@@ -45,5 +45,6 @@ public class HJ106 {
             sb.append(c[i]);
         }
         System.out.println(sb.toString());
+
     }
 }
