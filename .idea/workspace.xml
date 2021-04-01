@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/DP/bag_2_19.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +361,7 @@
       <workItem from="1615615714281" duration="3810000" />
       <workItem from="1615684910969" duration="21630000" />
       <workItem from="1615946443547" duration="3094000" />
-      <workItem from="1616327915800" duration="80164000" />
+      <workItem from="1616327915800" duration="80418000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -589,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617190415828</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="动态规划">
+      <created>1617278702507</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617278702507</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,14 +636,14 @@
     <MESSAGE value="二叉树" />
     <MESSAGE value="丑数" />
     <MESSAGE value="2020-2021年度第二届全国大学生算法设计与编程挑战赛（冬季赛）——正式赛（Java语言题目解析）" />
-    <MESSAGE value="动态规划" />
     <MESSAGE value="单调栈" />
     <MESSAGE value="背包问题" />
     <MESSAGE value="数组" />
     <MESSAGE value="更新" />
     <MESSAGE value="字符逆序" />
     <MESSAGE value="字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串" />
+    <MESSAGE value="动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1003" y="251" key="#Deployment" timestamp="1608439701466">
@@ -659,11 +664,11 @@
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615700274974" />
     <state x="690" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616584363812" />
-    <state x="477" y="104" key="CommitChangelistDialog2" timestamp="1617278590220">
+    <state x="477" y="104" key="CommitChangelistDialog2" timestamp="1617278700993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1013" y="187" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617190415288" />
-    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617278590220" />
+    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617278700993" />
     <state x="-997" y="221" width="896" height="750" key="DiffContextDialog" timestamp="1608439843610">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
