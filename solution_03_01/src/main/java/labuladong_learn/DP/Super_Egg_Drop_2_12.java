@@ -4,7 +4,7 @@ package labuladong_learn.DP;/**
  * date   2021/3/24 16:56
  *
  * @Classname Super_Egg_Drop_2_12
- * Description: 测试
+ * Description: 高楼扔鸡蛋
  */
 
 import java.util.Arrays;

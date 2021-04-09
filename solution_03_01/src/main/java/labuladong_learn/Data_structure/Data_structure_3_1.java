@@ -1,10 +1,10 @@
-package labuladong_learn.DP;/**
+package labuladong_learn.Data_structure;/**
  * Copyright (C), 2019-2021
  * author  candy_chen
  * date   2021/4/1 21:19
  *
  * @Classname Data_structure_3_1
- * Description: 测试
+ * Description: 质数因子
  */
 
 import java.util.Scanner;
