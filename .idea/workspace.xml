@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ17_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,7 +370,7 @@
       <workItem from="1615946443547" duration="3094000" />
       <workItem from="1616327915800" duration="91124000" />
       <workItem from="1617779927314" duration="35260000" />
-      <workItem from="1617950206753" duration="27827000" />
+      <workItem from="1617950206753" duration="44822000" />
     </task>
     <task id="LOCAL-00001" summary="计算机挑战赛答案测试">
       <created>1608439535790</created>
@@ -673,7 +673,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618060765013</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="华为机试">
+      <created>1618060790499</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1618060790499</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -703,7 +710,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="计算机挑战赛答案测试" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;solution_03_01/src/test/java/org/example/test_05.java" />
     <MESSAGE value="1.0" />
     <MESSAGE value="回文链表问题" />
@@ -728,7 +734,8 @@
     <MESSAGE value="剑指复现" />
     <MESSAGE value="LFU" />
     <MESSAGE value="链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表" />
+    <MESSAGE value="华为机试" />
+    <option name="LAST_COMMIT_MESSAGE" value="华为机试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1368" y="197" key="#Notifications" timestamp="1617964539826">
@@ -749,11 +756,11 @@
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615700274974" />
     <state x="690" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616584363812" />
-    <state x="477" y="104" width="948" height="943" key="CommitChangelistDialog2" timestamp="1618060763698">
+    <state x="477" y="104" width="948" height="943" key="CommitChangelistDialog2" timestamp="1618060789478">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1072" y="128" width="948" height="943" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617938427596" />
-    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618060763698" />
+    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618060789478" />
     <state x="-1000" y="291" key="FileChooserDialogImpl" timestamp="1617096753277">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -807,11 +814,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="403" y="342" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611059577425" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1617973047907">
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1618131081951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1320" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617964545716" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617973047907" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618131081951" />
     <state x="-1828" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618040730950">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -851,9 +858,10 @@
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1304" y="245" key="run.anything.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617797462257" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1616586534429">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1618191905216">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1297" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618191905216" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616586534429" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
