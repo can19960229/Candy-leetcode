@@ -7,14 +7,15 @@ package 笔试汇总.华为;/**
  * Description: 字符串字符匹配
  */
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 /**
  * 判断短字符串中的所有字符是否在长字符串中全部出现。
  */
 public class HJ81 {
+    /*
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while (sc.hasNextLine()) {
@@ -39,4 +40,25 @@ public class HJ81 {
                 System.out.println(true);
         }
     }
+
+    */
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String str = "";
+        String str2 = "";
+        while( (str = br.readLine()) != null && !"".equals(str)){
+            str2 = br.readLine();
+            char[] arr = str.toCharArray();
+            boolean judge = true;
+            for (char c : arr) {
+                if (!str2.contains(String.valueOf(c))){
+                    judge = false;
+                    break;
+                }
+            }
+            System.out.println(judge);
+        }
+        br.close();
+    }
+
 }
