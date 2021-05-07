@@ -1,60 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="刷题">
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/Data_structure/reverseKGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/Data_structure/reverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/Data_structure/reversePreList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/Data_structure/reversePreNList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/BFS/slidingpuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/Conquer/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/Conquer/Permute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/Conquer/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/Conquer/gParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/Conquer/solveSudu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/TwoSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/TwoSumIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/labuladong_learn/someIdea/nSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_gray/src/main/java/sort/mergeSort_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_gray/src/main/java/sort/quickSort_1.java" afterDir="false" />
+    <list default="true" id="f43bfce4-af7d-4a9f-81de-fdaafe7f0577" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/Mytest/N个线程循环打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/Mytest/两线程奇偶数打印.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/offer/JZ57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution_03_01/src/main/java/笔试汇总/华为/HJ41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_gray/src/main/java/sort/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/test_gray/src/main/java/sort/quickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +71,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java_project/project-one" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -156,9 +109,22 @@
       <recent name="list_demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HJ51">
-    <configuration name="HJ27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="笔试汇总.华为.HJ27" />
+  <component name="RunManager" selected="Application.N个线程循环打印$test1">
+    <configuration name="两个线程打印奇偶数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest.两个线程打印奇偶数" />
+      <module name="solution_03_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HJ41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="笔试汇总.华为.HJ41" />
       <module name="solution_03_01" />
       <extension name="coverage">
         <pattern>
@@ -196,19 +162,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JZ45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.JZ45" />
-      <module name="solution_03_01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyLinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MyLinkedList" />
       <module name="test_gray" />
@@ -222,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladong_learn.Trie" />
+    <configuration name="N个线程循环打印$test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mytest.N个线程循环打印$test1" />
       <module name="solution_03_01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labuladong_learn.*" />
+          <option name="PATTERN" value="Mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +253,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.Trie" />
-      <item itemvalue="Application.JZ45" />
-      <item itemvalue="Application.HJ27" />
       <item itemvalue="Application.HJ75" />
       <item itemvalue="Application.HJ51" />
+      <item itemvalue="Application.HJ41" />
+      <item itemvalue="Application.两个线程打印奇偶数" />
+      <item itemvalue="Application.N个线程循环打印$test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N个线程循环打印$test1" />
+        <item itemvalue="Application.两个线程打印奇偶数" />
+        <item itemvalue="Application.HJ41" />
         <item itemvalue="Application.HJ51" />
         <item itemvalue="Application.HJ75" />
-        <item itemvalue="Application.HJ27" />
-        <item itemvalue="Application.JZ45" />
-        <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
   </component>
@@ -421,14 +374,8 @@
       <workItem from="1617950206753" duration="84626000" />
       <workItem from="1618754164798" duration="1844000" />
       <workItem from="1618795824239" duration="54124000" />
-      <workItem from="1619333883092" duration="48105000" />
-    </task>
-    <task id="LOCAL-00004" summary="计算机挑战赛答案测试">
-      <created>1609846017034</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1609846017034</updated>
+      <workItem from="1619333883092" duration="67355000" />
+      <workItem from="1620287020589" duration="2980000" />
     </task>
     <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;solution_03_01/src/test/java/org/example/test_05.java">
       <created>1609846086667</created>
@@ -766,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618736809520</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="刷题">
+      <created>1619700207094</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1619700207094</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -833,6 +787,10 @@
     </state>
     <state x="-1228" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1617021299299" />
     <state x="692" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616554278119" />
+    <state x="-1155" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1620288111506">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1155" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620288111506" />
     <state x="-1066" y="414" width="466" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618733613640">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
@@ -842,74 +800,70 @@
     </state>
     <state x="-1230" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1615700274974" />
     <state x="690" y="285" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619428984592" />
-    <state x="477" y="104" width="948" height="943" key="CommitChangelistDialog2" timestamp="1619688238989">
+    <state x="477" y="104" width="948" height="943" key="CommitChangelistDialog2" timestamp="1619700205586">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1072" y="128" width="948" height="943" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618975720853" />
-    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619688238989" />
+    <state x="477" y="104" key="CommitChangelistDialog2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619700205586" />
     <state x="-1000" y="291" key="FileChooserDialogImpl" timestamp="1618986786377">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1000" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618986786377" />
     <state x="920" y="291" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1616548193533" />
-    <state width="1875" height="204" key="GridCell.Tab.0.bottom" timestamp="1619700109965">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343227426" />
-    <state width="1875" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619700109965" />
-    <state width="1875" height="204" key="GridCell.Tab.0.center" timestamp="1619700109965">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="204" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343227426" />
-    <state width="1875" height="204" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619700109965" />
-    <state width="1875" height="204" key="GridCell.Tab.0.left" timestamp="1619700109965">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="204" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343227426" />
-    <state width="1875" height="204" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619700109965" />
-    <state width="1875" height="204" key="GridCell.Tab.0.right" timestamp="1619700109965">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="204" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343227426" />
-    <state width="1875" height="204" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619700109965" />
-    <state width="1875" height="439" key="GridCell.Tab.1.bottom" timestamp="1619506287323">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="439" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343185896" />
-    <state width="1875" height="439" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619506287323" />
-    <state width="1875" height="439" key="GridCell.Tab.1.center" timestamp="1619506287322">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="439" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343185896" />
-    <state width="1875" height="439" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619506287322" />
-    <state width="1875" height="439" key="GridCell.Tab.1.left" timestamp="1619506287319">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="439" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343185896" />
-    <state width="1875" height="439" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619506287319" />
-    <state width="1875" height="439" key="GridCell.Tab.1.right" timestamp="1619506287323">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1875" height="439" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1619343185896" />
-    <state width="1875" height="439" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619506287323" />
-    <state x="403" y="342" width="1487" height="872" key="SettingsEditor" timestamp="1611059577425">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="403" y="342" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1611059577425" />
-    <state x="-1320" y="338" key="Vcs.Push.Dialog.v2" timestamp="1618734914938">
+    <state width="1875" height="371" key="GridCell.Tab.0.bottom" timestamp="1620289380379">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="1875" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194807" />
+    <state width="1875" height="371" key="GridCell.Tab.0.center" timestamp="1620289380379">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="204" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194807" />
+    <state width="1875" height="371" key="GridCell.Tab.0.left" timestamp="1620289380378">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380378" />
+    <state width="1875" height="204" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194807" />
+    <state width="1875" height="371" key="GridCell.Tab.0.right" timestamp="1620289380379">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="204" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194807" />
+    <state width="1875" height="371" key="GridCell.Tab.1.bottom" timestamp="1620289380379">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="371" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194801" />
+    <state width="1875" height="371" key="GridCell.Tab.1.center" timestamp="1620289380379">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="371" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194798" />
+    <state width="1875" height="371" key="GridCell.Tab.1.left" timestamp="1620289380379">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="371" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194797" />
+    <state width="1875" height="371" key="GridCell.Tab.1.right" timestamp="1620289380379">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="371" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620289380379" />
+    <state width="1875" height="371" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619954194800" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2" timestamp="1619700211209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
     <state x="-1320" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618734914938" />
-    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1618131081951" />
+    <state x="600" y="338" key="Vcs.Push.Dialog.v2/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619700211209" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619698410001">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1828" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618930553874" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1619698410001" />
-    <state x="-1405" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1618795827831">
+    <state x="-1405" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1620358272675">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="-1405" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1618795827831" />
+    <state x="-1405" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1620358272675" />
     <state x="515" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1614513343766" />
     <state x="-1566" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619189563368">
       <screen x="-1920" y="0" width="1920" height="1080" />
