@@ -1,50 +1,67 @@
-**»ù´¡ÖªÊ¶µÄÊµÏÖ**£º
+**åŸºç¡€çŸ¥è¯†çš„å®ç°**ï¼š
 
-# [solution_03_01£¨ÖØµã£©](https://github.com/can19960229/test_Algorithms_gray/tree/master/solution_03_01/src/main/java)
+# [solution_03_01ï¼ˆé‡ç‚¹ï¼‰](https://github.com/can19960229/test_Algorithms_gray/tree/master/solution_03_01/src/main/java)
 
 ## 1. labuladong_learn  
-ÊÇ¶ÔlabuladongÒ»ÊéÑ§Ï°µÄ±Ê¼ÇºÍËã·¨ÊµÏÖ
+- å¯¹labuladongä¸€ä¹¦å­¦ä¹ çš„ç¬”è®°å’Œç®—æ³•å®ç°
 
 ## 2. leetcode    
         
-ÊÇ¶ÔleetcodeÉÏµÄÌâÄ¿µÄÑ§Ï°ºÍ½â´ğ
-    
-## 3. ×ó³ÌÔÆËã·¨¿Î
-        
-ÊÇ¶Ô×ó³ÌÔÆËã·¨¿ÎµÄÑ§Ï°ºÍ´úÂëÊµÏÖ
-    
-## 4. ±ÊÊÔ»ã×Ü
-        
-Õë¶ÔÅ£¿ÍÍøÉÏµÄ¸÷¼Ò»¥ÁªÍø¹«Ê½µÄÊÔÌâ½øĞĞÑ§Ï°ºÍ´úÂëÊµÏÖ
-    
-### £¨1£© »ªÎª
-    
-# [test_algorithms£¨ÖØµã£©](https://github.com/can19960229/test_Algorithms_gray/tree/master/test_Algorithms/src)
-	
-Ñ§Ï°¡¶Ëã·¨¡·ÊéÖĞµÄÖªÊ¶£¬¶ÔÊéÖĞµÄ´úÂë½øĞĞÊµÏÖ
+- å¯¹leetcodeä¸Šçš„ç®—æ³•é¢˜è¿›è¡Œå­¦ä¹ ï¼Œå¹¶ç»™å‡ºé¢˜è§£
 
-# [test_gray£¨ÖØµã£©](https://github.com/can19960229/test_Algorithms_gray/tree/master/test_gray)
+## 3. newCode_300
+- å¯¹ç‰›å®¢ç½‘ä¸Šçš„ç®—æ³•é¢˜ç®—æ³•é¢˜è¿›è¡Œå­¦ä¹ ï¼Œå¹¶ç»™å‡ºé¢˜è§£
+
+## 4. offer
+- å¯¹ã€Šå‰‘æŒ‡offerã€‹ä¸€ä¹¦ä¸­çš„ç®—æ³•é¢˜è¿›è¡Œå­¦ä¹ ï¼Œå¹¶ç»™å‡ºé¢˜è§£
+    
+## 5. å·¦ç¨‹äº‘ç®—æ³•è¯¾
+        
+- å¯¹å·¦ç¨‹äº‘ç®—æ³•è¯¾çš„å­¦ä¹ å’Œä»£ç å®ç°
+    
+## 4. ç¬”è¯•æ±‡æ€»
+        
+å¯¹ç‰›å®¢ç½‘ä¸Šçš„å„å®¶äº’è”ç½‘å…¬å¼çš„è¯•é¢˜è¿›è¡Œå­¦ä¹ å’Œä»£ç å®ç°ï¼Œå¹¶ç»™å‡ºé¢˜è§£
+    
+### ï¼ˆ1ï¼‰ åä¸º
+
+- å¯¹ç‰›å®¢ç½‘ä¸Šçš„åä¸ºç®—æ³•é¢˜åº“è¿›è¡Œå­¦ä¹ ï¼Œå¹¶ç»™å‡ºé¢˜è§£
+- 
+- ç‰›å®¢ç½‘åä¸ºå…¬å¸ç®—æ³•é¢˜åº“é“¾æ¥ï¼š [æˆ³ä¸€æˆ³è¿™é‡Œï¼Œä¼ é€é—¨ç›´è¾¾](https://www.nowcoder.com/exam/oj/ta?tpId=37)
+
+### ï¼ˆ2ï¼‰é¢è¯•é¢˜ç›®å¿…ä¼š
+
+- ç§‹æ‹›è¿›è¡Œç¬”è¯•æ—¶çš„ä¸€äº›å…¬å¸é¢˜ç›®ç»ƒä¹ 
+
+
+
+# [test_algorithmsï¼ˆé‡ç‚¹ï¼‰](https://github.com/can19960229/test_Algorithms_gray/tree/master/test_Algorithms/src)
+æ‰
 	
-Ñ§Ï°¡¶Ğ¡»ÒËã·¨¡·Ò»ÊéÖĞµÄÖªÊ¶£¬¶ÔÊéÖĞµÄ´úÂë½øĞĞÊµÏÖ
+å­¦ä¹ ã€Šç®—æ³•ã€‹ä¹¦ä¸­çš„çŸ¥è¯†ï¼Œå¯¹ä¹¦ä¸­çš„ä»£ç è¿›è¡Œå®ç°
+
+# [test_grayï¼ˆé‡ç‚¹ï¼‰](https://github.com/can19960229/test_Algorithms_gray/tree/master/test_gray)
+	
+å­¦ä¹ ã€Šå°ç°ç®—æ³•ã€‹ä¸€ä¹¦ä¸­çš„çŸ¥è¯†ï¼Œå¯¹ä¹¦ä¸­çš„ä»£ç è¿›è¡Œå®ç°
 
 
 # [io_demo](https://github.com/can19960229/test_Algorithms_gray/tree/master/io_demo/src)
 	
-¶Ôjava»ù´¡ÖĞ²Ù×÷IOÖªÊ¶µÄÑ§Ï°¼ÇÂ¼
+å¯¹javaåŸºç¡€ä¸­æ“ä½œIOçŸ¥è¯†çš„å­¦ä¹ è®°å½•
 
 # [List_Arraylist_demo](https://github.com/can19960229/test_Algorithms_gray/tree/master/List_Arraylist_demo/src)
 	
-¶Ôjava»ù´¡ÖĞ²Ù×÷listºÍarraylistÖªÊ¶µÄÑ§Ï°¼ÇÂ¼
+å¯¹javaåŸºç¡€ä¸­æ“ä½œlistå’ŒarraylistçŸ¥è¯†çš„å­¦ä¹ è®°å½•
 
 # [net_demo](https://github.com/can19960229/test_Algorithms_gray/tree/master/net_demo/src/main/java)
 	
-¶Ôjava»ù´¡ÖĞÍøÂç±à³Ìtcp¡¢udpÖªÊ¶µÄÑ§Ï°¼ÇÂ¼
+å¯¹javaåŸºç¡€ä¸­ç½‘ç»œç¼–ç¨‹tcpã€udpçŸ¥è¯†çš„å­¦ä¹ è®°å½•
 
 # [reflect_demo](https://github.com/can19960229/test_Algorithms_gray/tree/master/Reflect_demo)
 	
-¶Ôjava»ù´¡ÖĞ·´ÉäÖªÊ¶µÄÑ§Ï°¼ÇÂ¼
+å¯¹javaåŸºç¡€ä¸­åå°„çŸ¥è¯†çš„å­¦ä¹ è®°å½•
 
 # [test_thread](https://github.com/can19960229/test_Algorithms_gray/tree/master/test_thread)
 	
-¶Ôjava»ù´¡ÖĞµÄ¶àÏß³ÌÖªÊ¶½øĞĞÑ§Ï°¼ÇÂ¼
+å¯¹javaåŸºç¡€ä¸­çš„å¤šçº¿ç¨‹çŸ¥è¯†è¿›è¡Œå­¦ä¹ è®°å½•
 
